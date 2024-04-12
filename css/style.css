@@ -205,16 +205,16 @@ a:hover {
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between; /* Рівномірний розподіл між картинками */
+  justify-content: space-between; 
   margin-top: 30px;
 }
 
 .portfolio-item {
-  width: 364px; /* розмір картинки по ширині */
-  height: 404px; /* розмір картинки по висоті */
-  margin-bottom: 60px; /* відступ між картинками */
-  border: 1px solid #F5F4FA; /* сірий колір країв */
-  border-radius: none; /* заокруглені краї картинки */
+  width: 364px; 
+  height: 404px; 
+  margin-bottom: 60px; /* Відступ між картинками */
+  border: 1px solid #F5F4FA; 
+  border-radius: none; 
 }
 
 .portfolio-headline {
@@ -233,36 +233,36 @@ a:hover {
   height: 38px;
   width: 73px;
   display: flex;
-  justify-content: center; /* розташовуємо текст по горизонталі посередині кнопки */
-  align-items: center; /* розташовуємо текст по вертикалі посередині кнопки */
+  justify-content: center; /* Текст по горизонталі посередині кнопки */
+  align-items: center; /* Текст по вертикалі посередині кнопки */
 }
 .two {
-  height: 38px; /* встановлюємо висоту */
-  width: 125px; /* встановлюємо ширину */
+  height: 38px; 
+  width: 125px; 
   display: flex;
-  justify-content: center; /* розташовуємо текст по горизонталі посередині кнопки */
-  align-items: center; /* розташовуємо текст по вертикалі посередині кнопки */
+  justify-content: center; /* Текст по горизонталі посередині кнопки */
+  align-items: center; /* Текст по вертикалі посередині кнопки */
 }
 .three {
   height: 38px;
   width: 112px;
   display: flex;
-  justify-content: center; /* розташовуємо текст по горизонталі посередині кнопки */
-  align-items: center; /* розташовуємо текст по вертикалі посередині кнопки */
+  justify-content: center; /* Текст по горизонталі посередині кнопки */
+  align-items: center; /* Текст по вертикалі посередині кнопки */
 }
 .four {
   height: 38px;
   width: 103px;
   display: flex;
-  justify-content: center; /* розташовуємо текст по горизонталі посередині кнопки */
-  align-items: center; /* розташовуємо текст по вертикалі посередині кнопки */
+  justify-content: center; /* Текст по горизонталі посередині кнопки */
+  align-items: center; /* Текст по вертикалі посередині кнопки */
 }
 .five {
   height: 38px;
   width: 130px;
   display: flex;
-  justify-content: center; /* розташовуємо текст по горизонталі посередині кнопки */
-  align-items: center; /* розташовуємо текст по вертикалі посередині кнопки */
+  justify-content: center; /*Текст по горизонталі посередині кнопки */
+  align-items: center; /* Текст по вертикалі посередині кнопки */
 }
 
 
@@ -270,8 +270,8 @@ a:hover {
 
 .header-flex {
   display: flex;
-  justify-content: space-between; /* Розташовує всі елементи в ряду, рівномірно розподіляючи простір між ними */
-  align-items: center; /* Вирівнює елементи по центру по вертикалі */
+  justify-content: space-between; /* Всі елементи в ряду, рівномірно розподіляючи простір між ними */
+  align-items: center; 
   border-bottom: 2px solid gainsboro;
 }
 .header-navigation {
@@ -345,8 +345,8 @@ a:hover {
 .examples-img {
   margin-top: 50px;
   margin-right: 30px;
-  width: 370px; /*  Ширина картинок */
-  height: 294px; /* Висота картинок */
+  width: 370px; 
+  height: 294px; 
 }
 
 
